@@ -25,8 +25,15 @@ def run_session(video_path, audio_path, chunk_duration=2.0):
             valence="unknown"
         )
 
+
     logger.set_notes("Initial perception run with chunking and logging only.")
     logger.finalize()
+
+    # Run event detection after logging chunks
+    from event_detector import detect_events
+    print(f"Running event detection on session directory: {logger.output_dir}")
+    events = detect_events(logger.output_dir)
+    print(f"Event detection complete. {len(events)} events detected.")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run a perception session.")
