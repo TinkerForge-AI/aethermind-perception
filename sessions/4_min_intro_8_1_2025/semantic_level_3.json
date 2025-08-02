@@ -1,0 +1,317 @@
+[
+  {
+    "id": "evt_l3_b53e80",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 0.0,
+      "end": 16.0
+    },
+    "children": [
+      "evt_l2_25bba3",
+      "evt_l2_f68bd6"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_707534",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 16.0,
+      "end": 32.0
+    },
+    "children": [
+      "evt_l2_a2ab2c",
+      "evt_l2_aa4be8"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_1ead5f",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 32.0,
+      "end": 48.0
+    },
+    "children": [
+      "evt_l2_206511",
+      "evt_l2_ec70ef"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_3bcf5e",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 48.0,
+      "end": 64.0
+    },
+    "children": [
+      "evt_l2_b3c382",
+      "evt_l2_cc65d3"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_fc447e",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 64.0,
+      "end": 80.0
+    },
+    "children": [
+      "evt_l2_36ba0f",
+      "evt_l2_515404"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_572d3f",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 80.0,
+      "end": 96.0
+    },
+    "children": [
+      "evt_l2_a69ec5",
+      "evt_l2_334d16"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_6fc798",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 96.0,
+      "end": 112.0
+    },
+    "children": [
+      "evt_l2_9dfcb6",
+      "evt_l2_17c7ff"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_eeca58",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 112.0,
+      "end": 128.0
+    },
+    "children": [
+      "evt_l2_b7750e",
+      "evt_l2_8747c9"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_bad363",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 128.0,
+      "end": 144.0
+    },
+    "children": [
+      "evt_l2_1f570f",
+      "evt_l2_837f30"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_16e88c",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 144.0,
+      "end": 160.0
+    },
+    "children": [
+      "evt_l2_e0ed98",
+      "evt_l2_901249"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_7e817e",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 160.0,
+      "end": 176.0
+    },
+    "children": [
+      "evt_l2_1ef56b",
+      "evt_l2_327ed3"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_b6ad26",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 176.0,
+      "end": 192.0
+    },
+    "children": [
+      "evt_l2_62e477",
+      "evt_l2_871eb3"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_c8e6b1",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 192.0,
+      "end": 208.0
+    },
+    "children": [
+      "evt_l2_6a9472",
+      "evt_l2_e75203"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_b6dc50",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 208.0,
+      "end": 224.0
+    },
+    "children": [
+      "evt_l2_e331eb",
+      "evt_l2_504018"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  },
+  {
+    "id": "evt_l3_0b4c9b",
+    "semantic_level": 3,
+    "time_span": {
+      "start": 224.0,
+      "end": 240.0
+    },
+    "children": [
+      "evt_l2_b0808c",
+      "evt_l2_93bd5a"
+    ],
+    "summary": "Merged L2/2 events; tags: ",
+    "representative_tags": [],
+    "motion_trend": "stable",
+    "speech_present": false,
+    "embedding": null,
+    "annotations": null,
+    "raw_motion": null,
+    "raw_energy": null,
+    "event_score": null
+  }
+]

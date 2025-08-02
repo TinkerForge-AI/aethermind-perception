@@ -1,0 +1,5847 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0000.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0000.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2467
+        },
+        {
+          "label": "cave",
+          "score": 0.2385
+        },
+        {
+          "label": "merchant",
+          "score": 0.2382
+        },
+        {
+          "label": "stall",
+          "score": 0.2317
+        },
+        {
+          "label": "crate",
+          "score": 0.2264
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "catacomb"
+    },
+    "raw_motion": 3.14399308825068,
+    "raw_energy": 17.74926254416442,
+    "event_score": 0.20333578585222647,
+    "is_event": false
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0001.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0001.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2438
+        },
+        {
+          "label": "merchant",
+          "score": 0.2424
+        },
+        {
+          "label": "npc",
+          "score": 0.2306
+        },
+        {
+          "label": "elder",
+          "score": 0.2291
+        },
+        {
+          "label": "chest",
+          "score": 0.2288
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "I was about to head into town to show you to be a...",
+      "scene_type": "basement"
+    },
+    "raw_motion": 0.8871228126961708,
+    "raw_energy": 15.516682376487221,
+    "event_score": 0.13860739921937001,
+    "is_event": false
+  },
+  {
+    "start": 4.0,
+    "end": 6.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0002.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0002.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2472
+        },
+        {
+          "label": "merchant",
+          "score": 0.2443
+        },
+        {
+          "label": "npc",
+          "score": 0.233
+        },
+        {
+          "label": "chest",
+          "score": 0.229
+        },
+        {
+          "label": "elder",
+          "score": 0.2285
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "survival.",
+      "scene_type": "music_studio"
+    },
+    "raw_motion": 0.13053012692247334,
+    "raw_energy": 20.918351017636457,
+    "event_score": 0.1836923192693597,
+    "is_event": false
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0003.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0003.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.245
+        },
+        {
+          "label": "merchant",
+          "score": 0.2424
+        },
+        {
+          "label": "npc",
+          "score": 0.2297
+        },
+        {
+          "label": "chest",
+          "score": 0.2275
+        },
+        {
+          "label": "elder",
+          "score": 0.2273
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "yourself. It's just the path.",
+      "scene_type": "basement"
+    },
+    "raw_motion": 0.04656655419543839,
+    "raw_energy": 25.894702068919333,
+    "event_score": 0.2362245965564671,
+    "is_event": false
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0004.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0004.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2469
+        },
+        {
+          "label": "merchant",
+          "score": 0.2454
+        },
+        {
+          "label": "chest",
+          "score": 0.2272
+        },
+        {
+          "label": "stall",
+          "score": 0.2228
+        },
+        {
+          "label": "crate",
+          "score": 0.2225
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 0.08181775083699518,
+    "raw_energy": 36.45918593755248,
+    "event_score": 0.3515772188661726,
+    "is_event": true
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0005.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0005.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.24
+        },
+        {
+          "label": "merchant",
+          "score": 0.2361
+        },
+        {
+          "label": "crate",
+          "score": 0.2319
+        },
+        {
+          "label": "chest",
+          "score": 0.2317
+        },
+        {
+          "label": "stall",
+          "score": 0.2306
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "on your way though.",
+      "scene_type": "basement"
+    },
+    "raw_motion": 4.2616905341075535,
+    "raw_energy": 24.30344392511718,
+    "event_score": 0.2945577021492573,
+    "is_event": false
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0006.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0006.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "campfire",
+          "score": 0.2527
+        },
+        {
+          "label": "cave",
+          "score": 0.239
+        },
+        {
+          "label": "raft",
+          "score": 0.2322
+        },
+        {
+          "label": "sand",
+          "score": 0.2269
+        },
+        {
+          "label": "cabin",
+          "score": 0.2211
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 9.709879412207052,
+    "raw_energy": 38.60077117296223,
+    "event_score": 0.5475450050989281,
+    "is_event": true
+  },
+  {
+    "start": 14.0,
+    "end": 16.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0007.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0007.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "campfire",
+          "score": 0.2773
+        },
+        {
+          "label": "cave",
+          "score": 0.2386
+        },
+        {
+          "label": "sand",
+          "score": 0.2324
+        },
+        {
+          "label": "lantern",
+          "score": 0.2311
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 5.498195964767733,
+    "raw_energy": 33.99882751079578,
+    "event_score": 0.42202132151067284,
+    "is_event": true
+  },
+  {
+    "start": 16.0,
+    "end": 18.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0008.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0008.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "cave",
+          "score": 0.2527
+        },
+        {
+          "label": "lantern",
+          "score": 0.234
+        },
+        {
+          "label": "crate",
+          "score": 0.2286
+        },
+        {
+          "label": "cabin",
+          "score": 0.2278
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 3.594239944614459,
+    "raw_energy": 29.82136736045424,
+    "event_score": 0.34250410722239744,
+    "is_event": true
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0009.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0009.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "cave",
+          "score": 0.2532
+        },
+        {
+          "label": "lantern",
+          "score": 0.243
+        },
+        {
+          "label": "cliff",
+          "score": 0.2391
+        },
+        {
+          "label": "light",
+          "score": 0.23
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 2.274596860941097,
+    "raw_energy": 23.468358468507105,
+    "event_score": 0.24984414786150763,
+    "is_event": false
+  },
+  {
+    "start": 20.0,
+    "end": 22.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0010.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0010.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "cave",
+          "score": 0.2347
+        },
+        {
+          "label": "path",
+          "score": 0.234
+        },
+        {
+          "label": "trail",
+          "score": 0.2305
+        },
+        {
+          "label": "mountain",
+          "score": 0.23
+        },
+        {
+          "label": "cliff",
+          "score": 0.228
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 3.922659421427077,
+    "raw_energy": 14.883941604530529,
+    "event_score": 0.18618916176977734,
+    "is_event": false
+  },
+  {
+    "start": 22.0,
+    "end": 24.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0011.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0011.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "ruin",
+          "score": 0.2317
+        },
+        {
+          "label": "cave",
+          "score": 0.2301
+        },
+        {
+          "label": "crate",
+          "score": 0.2288
+        },
+        {
+          "label": "stall",
+          "score": 0.2278
+        },
+        {
+          "label": "merchant",
+          "score": 0.2266
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "landing_deck"
+    },
+    "raw_motion": 0.6918484433851223,
+    "raw_energy": 16.111892447235753,
+    "event_score": 0.14156790245188788,
+    "is_event": false
+  },
+  {
+    "start": 24.0,
+    "end": 26.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0012.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0012.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "npc",
+          "score": 0.2358
+        },
+        {
+          "label": "ruin",
+          "score": 0.2238
+        },
+        {
+          "label": "sand",
+          "score": 0.2228
+        },
+        {
+          "label": "canvas",
+          "score": 0.2201
+        },
+        {
+          "label": "cave",
+          "score": 0.2197
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 0.20034536677390666,
+    "raw_energy": 15.974179846511916,
+    "event_score": 0.13125568622893471,
+    "is_event": false
+  },
+  {
+    "start": 26.0,
+    "end": 28.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0013.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0013.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "sand",
+          "score": 0.2281
+        },
+        {
+          "label": "ruin",
+          "score": 0.228
+        },
+        {
+          "label": "cave",
+          "score": 0.224
+        },
+        {
+          "label": "npc",
+          "score": 0.2234
+        },
+        {
+          "label": "path",
+          "score": 0.2191
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 0.3093755067744298,
+    "raw_energy": 21.933971208390915,
+    "event_score": 0.19792919428072522,
+    "is_event": false
+  },
+  {
+    "start": 28.0,
+    "end": 30.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0014.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0014.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "sand",
+          "score": 0.2482
+        },
+        {
+          "label": "mountain",
+          "score": 0.2439
+        },
+        {
+          "label": "trail",
+          "score": 0.2418
+        },
+        {
+          "label": "ruin",
+          "score": 0.238
+        },
+        {
+          "label": "cliff",
+          "score": 0.2372
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 6.220388802246809,
+    "raw_energy": 28.200445470179247,
+    "event_score": 0.3720113914451919,
+    "is_event": true
+  },
+  {
+    "start": 30.0,
+    "end": 32.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0015.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0015.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "mountain",
+          "score": 0.251
+        },
+        {
+          "label": "sand",
+          "score": 0.2462
+        },
+        {
+          "label": "ruin",
+          "score": 0.2402
+        },
+        {
+          "label": "cliff",
+          "score": 0.24
+        },
+        {
+          "label": "trail",
+          "score": 0.2391
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 8.198512657917451,
+    "raw_energy": 25.84260520466488,
+    "event_score": 0.3818918973900107,
+    "is_event": true
+  },
+  {
+    "start": 32.0,
+    "end": 34.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0016.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0016.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "sand",
+          "score": 0.244
+        },
+        {
+          "label": "trail",
+          "score": 0.2343
+        },
+        {
+          "label": "ocean",
+          "score": 0.2311
+        },
+        {
+          "label": "cliff",
+          "score": 0.2307
+        },
+        {
+          "label": "ruin",
+          "score": 0.2292
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 11.21224943273959,
+    "raw_energy": 16.011950433639942,
+    "event_score": 0.32920198603622997,
+    "is_event": true
+  },
+  {
+    "start": 34.0,
+    "end": 36.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0017.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0017.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "sand",
+          "score": 0.2384
+        },
+        {
+          "label": "ocean",
+          "score": 0.2362
+        },
+        {
+          "label": "trail",
+          "score": 0.2345
+        },
+        {
+          "label": "forest",
+          "score": 0.233
+        },
+        {
+          "label": "raft",
+          "score": 0.231
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "ocean"
+    },
+    "raw_motion": 9.185229258213015,
+    "raw_energy": 13.25432757805862,
+    "event_score": 0.262895281332367,
+    "is_event": false
+  },
+  {
+    "start": 36.0,
+    "end": 38.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0018.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0018.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "forest",
+          "score": 0.2322
+        },
+        {
+          "label": "trail",
+          "score": 0.2319
+        },
+        {
+          "label": "path",
+          "score": 0.2236
+        },
+        {
+          "label": "grass",
+          "score": 0.2235
+        },
+        {
+          "label": "moss",
+          "score": 0.2223
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 12.718630564710187,
+    "raw_energy": 16.998786971528332,
+    "event_score": 0.3669401901975076,
+    "is_event": true
+  },
+  {
+    "start": 38.0,
+    "end": 40.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0019.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0019.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "trail",
+          "score": 0.2573
+        },
+        {
+          "label": "forest",
+          "score": 0.2473
+        },
+        {
+          "label": "path",
+          "score": 0.2471
+        },
+        {
+          "label": "sun",
+          "score": 0.2379
+        },
+        {
+          "label": "mountain",
+          "score": 0.2318
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 16.459450280524166,
+    "raw_energy": 14.398254925440067,
+    "event_score": 0.40580527024284796,
+    "is_event": true
+  },
+  {
+    "start": 40.0,
+    "end": 42.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0020.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0020.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "trail",
+          "score": 0.262
+        },
+        {
+          "label": "path",
+          "score": 0.2546
+        },
+        {
+          "label": "road",
+          "score": 0.2405
+        },
+        {
+          "label": "cliff",
+          "score": 0.2405
+        },
+        {
+          "label": "mountain",
+          "score": 0.2373
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 8.502567850557126,
+    "raw_energy": 11.577315766740226,
+    "event_score": 0.23243865791658633,
+    "is_event": false
+  },
+  {
+    "start": 42.0,
+    "end": 44.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0021.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0021.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "trail",
+          "score": 0.2433
+        },
+        {
+          "label": "forest",
+          "score": 0.2366
+        },
+        {
+          "label": "path",
+          "score": 0.2345
+        },
+        {
+          "label": "grass",
+          "score": 0.2321
+        },
+        {
+          "label": "moss",
+          "score": 0.2275
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "trench"
+    },
+    "raw_motion": 13.097220898069681,
+    "raw_energy": 10.52642339872195,
+    "event_score": 0.3034477745196412,
+    "is_event": true
+  },
+  {
+    "start": 44.0,
+    "end": 46.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0022.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0022.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "forest",
+          "score": 0.2473
+        },
+        {
+          "label": "grass",
+          "score": 0.2462
+        },
+        {
+          "label": "trail",
+          "score": 0.2424
+        },
+        {
+          "label": "moss",
+          "score": 0.2377
+        },
+        {
+          "label": "cliff",
+          "score": 0.2371
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "underwater/ocean_deep"
+    },
+    "raw_motion": 15.706366713420694,
+    "raw_energy": 10.34345592627852,
+    "event_score": 0.34826487174298043,
+    "is_event": true
+  },
+  {
+    "start": 46.0,
+    "end": 48.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0023.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0023.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "forest",
+          "score": 0.2563
+        },
+        {
+          "label": "trail",
+          "score": 0.2539
+        },
+        {
+          "label": "grass",
+          "score": 0.2476
+        },
+        {
+          "label": "path",
+          "score": 0.2456
+        },
+        {
+          "label": "bush",
+          "score": 0.2345
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "underwater/ocean_deep"
+    },
+    "raw_motion": 11.557329282407407,
+    "raw_energy": 11.264850364807186,
+    "event_score": 0.2838431700475045,
+    "is_event": false
+  },
+  {
+    "start": 48.0,
+    "end": 50.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0024.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0024.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "forest",
+          "score": 0.2791
+        },
+        {
+          "label": "trail",
+          "score": 0.251
+        },
+        {
+          "label": "bench",
+          "score": 0.2507
+        },
+        {
+          "label": "grass",
+          "score": 0.2507
+        },
+        {
+          "label": "treehouse",
+          "score": 0.2499
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 9.9268924101538,
+    "raw_energy": 12.176185587648236,
+    "event_score": 0.264491946459816,
+    "is_event": false
+  },
+  {
+    "start": 50.0,
+    "end": 52.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0025.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0025.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "forest",
+          "score": 0.2688
+        },
+        {
+          "label": "path",
+          "score": 0.2502
+        },
+        {
+          "label": "trail",
+          "score": 0.2427
+        },
+        {
+          "label": "treehouse",
+          "score": 0.2358
+        },
+        {
+          "label": "archway",
+          "score": 0.235
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 9.747612830874658,
+    "raw_energy": 12.227200078869549,
+    "event_score": 0.26182992325584686,
+    "is_event": false
+  },
+  {
+    "start": 52.0,
+    "end": 54.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0026.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0026.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "forest",
+          "score": 0.2737
+        },
+        {
+          "label": "path",
+          "score": 0.2607
+        },
+        {
+          "label": "trail",
+          "score": 0.2507
+        },
+        {
+          "label": "archway",
+          "score": 0.2419
+        },
+        {
+          "label": "grass",
+          "score": 0.2413
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "rainforest"
+    },
+    "raw_motion": 18.05401741342331,
+    "raw_energy": 8.591672192638615,
+    "event_score": 0.3713553039139389,
+    "is_event": true
+  },
+  {
+    "start": 54.0,
+    "end": 56.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0027.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0027.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "forest",
+          "score": 0.2773
+        },
+        {
+          "label": "path",
+          "score": 0.2654
+        },
+        {
+          "label": "trail",
+          "score": 0.2595
+        },
+        {
+          "label": "ruin",
+          "score": 0.2449
+        },
+        {
+          "label": "archway",
+          "score": 0.2437
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 15.809431562565392,
+    "raw_energy": 10.34171319202151,
+    "event_score": 0.3500947677312794,
+    "is_event": true
+  },
+  {
+    "start": 56.0,
+    "end": 58.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0028.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0028.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "forest",
+          "score": 0.2681
+        },
+        {
+          "label": "path",
+          "score": 0.2512
+        },
+        {
+          "label": "trail",
+          "score": 0.2469
+        },
+        {
+          "label": "camp",
+          "score": 0.2389
+        },
+        {
+          "label": "grass",
+          "score": 0.2365
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "forest_path"
+    },
+    "raw_motion": 12.10779223719659,
+    "raw_energy": 14.276467046782564,
+    "event_score": 0.3264209049157001,
+    "is_event": true
+  },
+  {
+    "start": 58.0,
+    "end": 60.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0029.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0029.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "forest",
+          "score": 0.262
+        },
+        {
+          "label": "path",
+          "score": 0.2578
+        },
+        {
+          "label": "archway",
+          "score": 0.2539
+        },
+        {
+          "label": "trail",
+          "score": 0.2488
+        },
+        {
+          "label": "bridge",
+          "score": 0.2435
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 20.169728949244092,
+    "raw_energy": 18.624622840844825,
+    "event_score": 0.5182561486394797,
+    "is_event": true
+  },
+  {
+    "start": 60.0,
+    "end": 62.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0030.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0030.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "archway",
+          "score": 0.2698
+        },
+        {
+          "label": "path",
+          "score": 0.2571
+        },
+        {
+          "label": "bridge",
+          "score": 0.252
+        },
+        {
+          "label": "forest",
+          "score": 0.2478
+        },
+        {
+          "label": "trail",
+          "score": 0.2455
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "arch"
+    },
+    "raw_motion": 12.101952291274326,
+    "raw_energy": 18.365548690001265,
+    "event_score": 0.3707196925799153,
+    "is_event": true
+  },
+  {
+    "start": 62.0,
+    "end": 64.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0031.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0031.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "treehouse",
+          "score": 0.2467
+        },
+        {
+          "label": "path",
+          "score": 0.241
+        },
+        {
+          "label": "forest",
+          "score": 0.24
+        },
+        {
+          "label": "ruin",
+          "score": 0.238
+        },
+        {
+          "label": "vendor",
+          "score": 0.238
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "catacomb"
+    },
+    "raw_motion": 17.128730023278926,
+    "raw_energy": 15.552637197900676,
+    "event_score": 0.4303465868108288,
+    "is_event": true
+  },
+  {
+    "start": 64.0,
+    "end": 66.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0032.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0032.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "treehouse",
+          "score": 0.2375
+        },
+        {
+          "label": "path",
+          "score": 0.2363
+        },
+        {
+          "label": "vendor",
+          "score": 0.234
+        },
+        {
+          "label": "forest",
+          "score": 0.2312
+        },
+        {
+          "label": "merchant",
+          "score": 0.2291
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 11.206624375523122,
+    "raw_energy": 19.927891124532014,
+    "event_score": 0.37162448199218656,
+    "is_event": true
+  },
+  {
+    "start": 66.0,
+    "end": 68.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0033.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0033.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.235
+        },
+        {
+          "label": "archway",
+          "score": 0.2321
+        },
+        {
+          "label": "path",
+          "score": 0.2269
+        },
+        {
+          "label": "merchant",
+          "score": 0.2212
+        },
+        {
+          "label": "grass",
+          "score": 0.2207
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 10.530375895846412,
+    "raw_energy": 23.32706524166972,
+    "event_score": 0.3964054594301305,
+    "is_event": true
+  },
+  {
+    "start": 68.0,
+    "end": 70.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0034.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0034.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2356
+        },
+        {
+          "label": "merchant",
+          "score": 0.2305
+        },
+        {
+          "label": "path",
+          "score": 0.2223
+        },
+        {
+          "label": "tent",
+          "score": 0.222
+        },
+        {
+          "label": "archway",
+          "score": 0.2207
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "natural_history_museum"
+    },
+    "raw_motion": 8.399576434662062,
+    "raw_energy": 31.55075599857526,
+    "event_score": 0.4474837655427267,
+    "is_event": true
+  },
+  {
+    "start": 70.0,
+    "end": 72.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0035.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0035.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.236
+        },
+        {
+          "label": "merchant",
+          "score": 0.2262
+        },
+        {
+          "label": "traveler",
+          "score": 0.2258
+        },
+        {
+          "label": "path",
+          "score": 0.2255
+        },
+        {
+          "label": "grass",
+          "score": 0.2255
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Oh",
+      "scene_type": "topiary_garden"
+    },
+    "raw_motion": 6.9984318273958985,
+    "raw_energy": 24.17321726842697,
+    "event_score": 0.34223637571485194,
+    "is_event": true
+  },
+  {
+    "start": 72.0,
+    "end": 74.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0036.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0036.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2549
+        },
+        {
+          "label": "merchant",
+          "score": 0.2469
+        },
+        {
+          "label": "villager",
+          "score": 0.2363
+        },
+        {
+          "label": "elder",
+          "score": 0.2355
+        },
+        {
+          "label": "grass",
+          "score": 0.2334
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "It's you! You're on this.",
+      "scene_type": "aquarium"
+    },
+    "raw_motion": 1.833188126111634,
+    "raw_energy": 22.52559416064867,
+    "event_score": 0.2316884471885451,
+    "is_event": false
+  },
+  {
+    "start": 74.0,
+    "end": 76.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0037.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0037.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2532
+        },
+        {
+          "label": "merchant",
+          "score": 0.2466
+        },
+        {
+          "label": "deer",
+          "score": 0.2458
+        },
+        {
+          "label": "villager",
+          "score": 0.2393
+        },
+        {
+          "label": "horse",
+          "score": 0.2354
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "What happened to you?",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.2854680470548232,
+    "raw_energy": 27.20615311972084,
+    "event_score": 0.2547512257408366,
+    "is_event": false
+  },
+  {
+    "start": 76.0,
+    "end": 78.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0038.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0038.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2629
+        },
+        {
+          "label": "merchant",
+          "score": 0.2524
+        },
+        {
+          "label": "deer",
+          "score": 0.2424
+        },
+        {
+          "label": "villager",
+          "score": 0.2368
+        },
+        {
+          "label": "horse",
+          "score": 0.2361
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 0.3446944231926135,
+    "raw_energy": 26.00592020074522,
+    "event_score": 0.24278026252198498,
+    "is_event": false
+  },
+  {
+    "start": 78.0,
+    "end": 80.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0039.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0039.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2598
+        },
+        {
+          "label": "merchant",
+          "score": 0.2517
+        },
+        {
+          "label": "deer",
+          "score": 0.2412
+        },
+        {
+          "label": "traveler",
+          "score": 0.236
+        },
+        {
+          "label": "horse",
+          "score": 0.2356
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Wow.",
+      "scene_type": "farm"
+    },
+    "raw_motion": 0.2827573433249634,
+    "raw_energy": 23.168543823522754,
+    "event_score": 0.2108579937954206,
+    "is_event": false
+  },
+  {
+    "start": 80.0,
+    "end": 82.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0040.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0040.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.261
+        },
+        {
+          "label": "merchant",
+          "score": 0.2522
+        },
+        {
+          "label": "villager",
+          "score": 0.2478
+        },
+        {
+          "label": "traveler",
+          "score": 0.2443
+        },
+        {
+          "label": "deer",
+          "score": 0.2434
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "and goodness, we thought you were long.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.20640394499372253,
+    "raw_energy": 21.01308050130192,
+    "event_score": 0.18608204791128952,
+    "is_event": false
+  },
+  {
+    "start": 82.0,
+    "end": 84.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0041.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0041.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.262
+        },
+        {
+          "label": "merchant",
+          "score": 0.2522
+        },
+        {
+          "label": "traveler",
+          "score": 0.2438
+        },
+        {
+          "label": "villager",
+          "score": 0.2434
+        },
+        {
+          "label": "deer",
+          "score": 0.2417
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Oh",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.2823112755675873,
+    "raw_energy": 27.24327727096329,
+    "event_score": 0.25509773131212776,
+    "is_event": false
+  },
+  {
+    "start": 84.0,
+    "end": 86.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0042.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0042.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2634
+        },
+        {
+          "label": "merchant",
+          "score": 0.2542
+        },
+        {
+          "label": "deer",
+          "score": 0.245
+        },
+        {
+          "label": "traveler",
+          "score": 0.2438
+        },
+        {
+          "label": "villager",
+          "score": 0.2437
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "horrible experience.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.3197268158872149,
+    "raw_energy": 20.088247909701646,
+    "event_score": 0.1780720765362739,
+    "is_event": false
+  },
+  {
+    "start": 86.0,
+    "end": 88.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0043.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0043.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2627
+        },
+        {
+          "label": "merchant",
+          "score": 0.2542
+        },
+        {
+          "label": "deer",
+          "score": 0.2499
+        },
+        {
+          "label": "traveler",
+          "score": 0.2443
+        },
+        {
+          "label": "villager",
+          "score": 0.2434
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "I'm so glad to see you all safe.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.26103096718717306,
+    "raw_energy": 18.933063108879324,
+    "event_score": 0.16447495488387276,
+    "is_event": false
+  },
+  {
+    "start": 88.0,
+    "end": 90.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0044.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0044.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2659
+        },
+        {
+          "label": "merchant",
+          "score": 0.2566
+        },
+        {
+          "label": "traveler",
+          "score": 0.2471
+        },
+        {
+          "label": "deer",
+          "score": 0.2467
+        },
+        {
+          "label": "villager",
+          "score": 0.2419
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "What will you do to each show?",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.2448134743147102,
+    "raw_energy": 18.595979346240547,
+    "event_score": 0.16052362885628718,
+    "is_event": false
+  },
+  {
+    "start": 90.0,
+    "end": 92.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0045.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0045.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2637
+        },
+        {
+          "label": "merchant",
+          "score": 0.2529
+        },
+        {
+          "label": "traveler",
+          "score": 0.2412
+        },
+        {
+          "label": "deer",
+          "score": 0.239
+        },
+        {
+          "label": "horse",
+          "score": 0.2368
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": ".",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.36717785493827154,
+    "raw_energy": 24.83226142506947,
+    "event_score": 0.23043875896176438,
+    "is_event": false
+  },
+  {
+    "start": 92.0,
+    "end": 94.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0046.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0046.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2583
+        },
+        {
+          "label": "merchant",
+          "score": 0.2498
+        },
+        {
+          "label": "deer",
+          "score": 0.2394
+        },
+        {
+          "label": "traveler",
+          "score": 0.2369
+        },
+        {
+          "label": "horse",
+          "score": 0.2319
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 0.22880281897363466,
+    "raw_energy": 24.412277704488954,
+    "event_score": 0.2233959048744837,
+    "is_event": false
+  },
+  {
+    "start": 94.0,
+    "end": 96.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0047.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0047.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2617
+        },
+        {
+          "label": "merchant",
+          "score": 0.2471
+        },
+        {
+          "label": "traveler",
+          "score": 0.2434
+        },
+        {
+          "label": "deer",
+          "score": 0.2423
+        },
+        {
+          "label": "villager",
+          "score": 0.2418
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "A traveling artist.",
+      "scene_type": "rice_paddy"
+    },
+    "raw_motion": 0.28323367859384807,
+    "raw_energy": 23.203833788715414,
+    "event_score": 0.21124975403701057,
+    "is_event": false
+  },
+  {
+    "start": 96.0,
+    "end": 98.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0048.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0048.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.262
+        },
+        {
+          "label": "merchant",
+          "score": 0.2472
+        },
+        {
+          "label": "traveler",
+          "score": 0.2419
+        },
+        {
+          "label": "villager",
+          "score": 0.2395
+        },
+        {
+          "label": "deer",
+          "score": 0.2368
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "That's wonderful. I came.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.23714848654268675,
+    "raw_energy": 23.54686153627733,
+    "event_score": 0.21414801444605563,
+    "is_event": false
+  },
+  {
+    "start": 98.0,
+    "end": 100.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0049.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0049.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2634
+        },
+        {
+          "label": "merchant",
+          "score": 0.2495
+        },
+        {
+          "label": "traveler",
+          "score": 0.246
+        },
+        {
+          "label": "villager",
+          "score": 0.2456
+        },
+        {
+          "label": "deer",
+          "score": 0.241
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "and visit my family.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.2646282809557439,
+    "raw_energy": 23.87473510199592,
+    "event_score": 0.21820135435525428,
+    "is_event": false
+  },
+  {
+    "start": 100.0,
+    "end": 102.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0050.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0050.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2512
+        },
+        {
+          "label": "merchant",
+          "score": 0.2467
+        },
+        {
+          "label": "villager",
+          "score": 0.2378
+        },
+        {
+          "label": "horse",
+          "score": 0.2349
+        },
+        {
+          "label": "deer",
+          "score": 0.2349
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "You look like you could use a nice",
+      "scene_type": "topiary_garden"
+    },
+    "raw_motion": 0.23931089303463068,
+    "raw_energy": 21.198011100175755,
+    "event_score": 0.18868051737485073,
+    "is_event": false
+  },
+  {
+    "start": 102.0,
+    "end": 104.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0051.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0051.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2499
+        },
+        {
+          "label": "merchant",
+          "score": 0.2446
+        },
+        {
+          "label": "villager",
+          "score": 0.2367
+        },
+        {
+          "label": "horse",
+          "score": 0.2349
+        },
+        {
+          "label": "traveler",
+          "score": 0.2302
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "happy birthday.",
+      "scene_type": "army_base"
+    },
+    "raw_motion": 0.2615426949283323,
+    "raw_energy": 25.57028961283688,
+    "event_score": 0.23655811712253572,
+    "is_event": false
+  },
+  {
+    "start": 104.0,
+    "end": 106.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0052.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0052.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2496
+        },
+        {
+          "label": "merchant",
+          "score": 0.2446
+        },
+        {
+          "label": "villager",
+          "score": 0.2385
+        },
+        {
+          "label": "deer",
+          "score": 0.2362
+        },
+        {
+          "label": "horse",
+          "score": 0.2346
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "a bit strong for some people.",
+      "scene_type": "racecourse"
+    },
+    "raw_motion": 0.38434424206162376,
+    "raw_energy": 25.43846372145803,
+    "event_score": 0.23732947859759593,
+    "is_event": false
+  },
+  {
+    "start": 106.0,
+    "end": 108.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0053.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0053.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2617
+        },
+        {
+          "label": "merchant",
+          "score": 0.2546
+        },
+        {
+          "label": "traveler",
+          "score": 0.2449
+        },
+        {
+          "label": "deer",
+          "score": 0.2421
+        },
+        {
+          "label": "villager",
+          "score": 0.2404
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "What the effects can be lifted?",
+      "scene_type": "rice_paddy"
+    },
+    "raw_motion": 0.24435438572400087,
+    "raw_energy": 22.705799427996347,
+    "event_score": 0.20514414035945897,
+    "is_event": false
+  },
+  {
+    "start": 108.0,
+    "end": 110.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0054.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0054.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2637
+        },
+        {
+          "label": "merchant",
+          "score": 0.2542
+        },
+        {
+          "label": "traveler",
+          "score": 0.2446
+        },
+        {
+          "label": "deer",
+          "score": 0.2374
+        },
+        {
+          "label": "villager",
+          "score": 0.2367
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "It's a bit broader from your water skin.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.2306027182726512,
+    "raw_energy": 19.127660249526475,
+    "event_score": 0.16604226053119137,
+    "is_event": false
+  },
+  {
+    "start": 110.0,
+    "end": 112.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0055.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0055.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2678
+        },
+        {
+          "label": "merchant",
+          "score": 0.2605
+        },
+        {
+          "label": "traveler",
+          "score": 0.2476
+        },
+        {
+          "label": "deer",
+          "score": 0.2405
+        },
+        {
+          "label": "villager",
+          "score": 0.2402
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.2808764255074284,
+    "raw_energy": 18.172468492505665,
+    "event_score": 0.15657161511994536,
+    "is_event": false
+  },
+  {
+    "start": 112.0,
+    "end": 114.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0056.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0056.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2629
+        },
+        {
+          "label": "merchant",
+          "score": 0.2537
+        },
+        {
+          "label": "traveler",
+          "score": 0.2427
+        },
+        {
+          "label": "villager",
+          "score": 0.2427
+        },
+        {
+          "label": "deer",
+          "score": 0.2411
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Our captain is an atterable",
+      "scene_type": "rice_paddy"
+    },
+    "raw_motion": 0.2990006735195647,
+    "raw_energy": 14.61025425783063,
+    "event_score": 0.11821446859386966,
+    "is_event": false
+  },
+  {
+    "start": 114.0,
+    "end": 116.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0057.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0057.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2629
+        },
+        {
+          "label": "merchant",
+          "score": 0.2532
+        },
+        {
+          "label": "villager",
+          "score": 0.2416
+        },
+        {
+          "label": "traveler",
+          "score": 0.24
+        },
+        {
+          "label": "deer",
+          "score": 0.2386
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "as opposed that's to bits.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.24508902882402175,
+    "raw_energy": 14.528091679425932,
+    "event_score": 0.11635517128407044,
+    "is_event": false
+  },
+  {
+    "start": 116.0,
+    "end": 118.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0058.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0058.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2639
+        },
+        {
+          "label": "merchant",
+          "score": 0.2542
+        },
+        {
+          "label": "traveler",
+          "score": 0.2417
+        },
+        {
+          "label": "villager",
+          "score": 0.2402
+        },
+        {
+          "label": "elder",
+          "score": 0.2366
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "That's why I'm not having a break at all the time.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.21271082633657667,
+    "raw_energy": 18.254599954563062,
+    "event_score": 0.156240701807693,
+    "is_event": false
+  },
+  {
+    "start": 118.0,
+    "end": 120.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0059.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0059.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2627
+        },
+        {
+          "label": "merchant",
+          "score": 0.2534
+        },
+        {
+          "label": "traveler",
+          "score": 0.2419
+        },
+        {
+          "label": "villager",
+          "score": 0.2401
+        },
+        {
+          "label": "deer",
+          "score": 0.2347
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "and leave the dog.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.20574562048807282,
+    "raw_energy": 16.572562050726198,
+    "event_score": 0.13785042125429173,
+    "is_event": false
+  },
+  {
+    "start": 120.0,
+    "end": 122.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0060.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0060.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2642
+        },
+        {
+          "label": "merchant",
+          "score": 0.252
+        },
+        {
+          "label": "villager",
+          "score": 0.2424
+        },
+        {
+          "label": "traveler",
+          "score": 0.2418
+        },
+        {
+          "label": "deer",
+          "score": 0.235
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "I think it would concern her to know that we also.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.3642345417451349,
+    "raw_energy": 17.37329593268433,
+    "event_score": 0.14938867214931784,
+    "is_event": false
+  },
+  {
+    "start": 122.0,
+    "end": 124.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0061.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0061.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2629
+        },
+        {
+          "label": "merchant",
+          "score": 0.2517
+        },
+        {
+          "label": "traveler",
+          "score": 0.2422
+        },
+        {
+          "label": "villager",
+          "score": 0.2418
+        },
+        {
+          "label": "deer",
+          "score": 0.2404
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "5. You should speak.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.5529842147938899,
+    "raw_energy": 23.113818372853125,
+    "event_score": 0.21511117011784747,
+    "is_event": false
+  },
+  {
+    "start": 124.0,
+    "end": 126.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0062.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0062.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.261
+        },
+        {
+          "label": "merchant",
+          "score": 0.2522
+        },
+        {
+          "label": "deer",
+          "score": 0.2451
+        },
+        {
+          "label": "traveler",
+          "score": 0.2379
+        },
+        {
+          "label": "horse",
+          "score": 0.2372
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.3182623930869429,
+    "raw_energy": 22.690565507244386,
+    "event_score": 0.20630450722326135,
+    "is_event": false
+  },
+  {
+    "start": 126.0,
+    "end": 128.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0063.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0063.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2625
+        },
+        {
+          "label": "merchant",
+          "score": 0.2515
+        },
+        {
+          "label": "deer",
+          "score": 0.2407
+        },
+        {
+          "label": "traveler",
+          "score": 0.2369
+        },
+        {
+          "label": "horse",
+          "score": 0.2367
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Bye!",
+      "scene_type": "rice_paddy"
+    },
+    "raw_motion": 0.2814436450486503,
+    "raw_energy": 20.972130167538356,
+    "event_score": 0.18698345970614424,
+    "is_event": false
+  },
+  {
+    "start": 128.0,
+    "end": 130.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0064.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0064.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2659
+        },
+        {
+          "label": "merchant",
+          "score": 0.2539
+        },
+        {
+          "label": "traveler",
+          "score": 0.249
+        },
+        {
+          "label": "deer",
+          "score": 0.2449
+        },
+        {
+          "label": "villager",
+          "score": 0.2406
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "I lost most of my possessions.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.23642520499843062,
+    "raw_energy": 22.899215618962124,
+    "event_score": 0.207102219721765,
+    "is_event": false
+  },
+  {
+    "start": 130.0,
+    "end": 132.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0065.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0065.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2642
+        },
+        {
+          "label": "merchant",
+          "score": 0.2546
+        },
+        {
+          "label": "traveler",
+          "score": 0.2461
+        },
+        {
+          "label": "deer",
+          "score": 0.2432
+        },
+        {
+          "label": "villager",
+          "score": 0.2427
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "and nothing.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.22067311904948736,
+    "raw_energy": 33.17623379261322,
+    "event_score": 0.3184183190779447,
+    "is_event": true
+  },
+  {
+    "start": 132.0,
+    "end": 134.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0066.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0066.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2634
+        },
+        {
+          "label": "merchant",
+          "score": 0.2561
+        },
+        {
+          "label": "traveler",
+          "score": 0.2446
+        },
+        {
+          "label": "deer",
+          "score": 0.2437
+        },
+        {
+          "label": "villager",
+          "score": 0.2422
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "has washed up.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.2756456387973425,
+    "raw_energy": 26.617958705046913,
+    "event_score": 0.24818779398379537,
+    "is_event": false
+  },
+  {
+    "start": 134.0,
+    "end": 136.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0067.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0067.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2634
+        },
+        {
+          "label": "merchant",
+          "score": 0.2546
+        },
+        {
+          "label": "traveler",
+          "score": 0.2415
+        },
+        {
+          "label": "elder",
+          "score": 0.238
+        },
+        {
+          "label": "deer",
+          "score": 0.2372
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "The family lives here in Linda.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.23673469704697636,
+    "raw_energy": 23.9297506224492,
+    "event_score": 0.21829840392011388,
+    "is_event": false
+  },
+  {
+    "start": 136.0,
+    "end": 138.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0068.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0068.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2637
+        },
+        {
+          "label": "merchant",
+          "score": 0.2546
+        },
+        {
+          "label": "traveler",
+          "score": 0.2439
+        },
+        {
+          "label": "villager",
+          "score": 0.2386
+        },
+        {
+          "label": "deer",
+          "score": 0.2383
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "I'll be staying with them.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.292564409395271,
+    "raw_energy": 27.9989382694717,
+    "event_score": 0.2634874178185307,
+    "is_event": false
+  },
+  {
+    "start": 138.0,
+    "end": 140.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0069.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0069.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2632
+        },
+        {
+          "label": "merchant",
+          "score": 0.2544
+        },
+        {
+          "label": "traveler",
+          "score": 0.2432
+        },
+        {
+          "label": "villager",
+          "score": 0.2382
+        },
+        {
+          "label": "deer",
+          "score": 0.2379
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "If you find that light is coming and",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.3562792621364302,
+    "raw_energy": 20.782794618486587,
+    "event_score": 0.18626988792021337,
+    "is_event": false
+  },
+  {
+    "start": 140.0,
+    "end": 142.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0070.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0070.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2634
+        },
+        {
+          "label": "merchant",
+          "score": 0.2532
+        },
+        {
+          "label": "traveler",
+          "score": 0.2422
+        },
+        {
+          "label": "villager",
+          "score": 0.2371
+        },
+        {
+          "label": "deer",
+          "score": 0.2362
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "a need of a place to stay.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.3772355536592384,
+    "raw_energy": 18.106307860901445,
+    "event_score": 0.15758170382900757,
+    "is_event": false
+  },
+  {
+    "start": 142.0,
+    "end": 144.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0071.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0071.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2627
+        },
+        {
+          "label": "merchant",
+          "score": 0.2527
+        },
+        {
+          "label": "traveler",
+          "score": 0.244
+        },
+        {
+          "label": "deer",
+          "score": 0.2433
+        },
+        {
+          "label": "villager",
+          "score": 0.2421
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Check the end. You'll be comfortable.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.21167547800272024,
+    "raw_energy": 17.420812903599597,
+    "event_score": 0.14716799299176014,
+    "is_event": false
+  },
+  {
+    "start": 144.0,
+    "end": 146.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0072.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0072.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.261
+        },
+        {
+          "label": "merchant",
+          "score": 0.2517
+        },
+        {
+          "label": "traveler",
+          "score": 0.2448
+        },
+        {
+          "label": "deer",
+          "score": 0.2397
+        },
+        {
+          "label": "villager",
+          "score": 0.2397
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "It is cool.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.2870034182752667,
+    "raw_energy": 21.00993515657406,
+    "event_score": 0.1874937195595952,
+    "is_event": false
+  },
+  {
+    "start": 146.0,
+    "end": 148.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0073.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0073.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.259
+        },
+        {
+          "label": "merchant",
+          "score": 0.249
+        },
+        {
+          "label": "traveler",
+          "score": 0.2449
+        },
+        {
+          "label": "deer",
+          "score": 0.2393
+        },
+        {
+          "label": "villager",
+          "score": 0.2374
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Hold around here tonight.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.22365643472745347,
+    "raw_energy": 20.125339675447822,
+    "event_score": 0.1767515071880457,
+    "is_event": false
+  },
+  {
+    "start": 148.0,
+    "end": 150.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0074.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0074.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2576
+        },
+        {
+          "label": "merchant",
+          "score": 0.2489
+        },
+        {
+          "label": "traveler",
+          "score": 0.2426
+        },
+        {
+          "label": "villager",
+          "score": 0.2377
+        },
+        {
+          "label": "deer",
+          "score": 0.2366
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "\ucd94\uc5b5!! \ub354 \ub354\u0442\u043e",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.22230754014961285,
+    "raw_energy": 12.317260624710842,
+    "event_score": 0.09193897970817354,
+    "is_event": false
+  },
+  {
+    "start": 150.0,
+    "end": 152.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0075.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0075.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2712
+        },
+        {
+          "label": "merchant",
+          "score": 0.2639
+        },
+        {
+          "label": "deer",
+          "score": 0.2505
+        },
+        {
+          "label": "traveler",
+          "score": 0.2469
+        },
+        {
+          "label": "horse",
+          "score": 0.245
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Bye!",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 0.30296383755754347,
+    "raw_energy": 4.1409971193973485,
+    "event_score": 0.004599361851527696,
+    "is_event": false
+  },
+  {
+    "start": 152.0,
+    "end": 154.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0076.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0076.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2595
+        },
+        {
+          "label": "merchant",
+          "score": 0.2487
+        },
+        {
+          "label": "traveler",
+          "score": 0.2411
+        },
+        {
+          "label": "villager",
+          "score": 0.2347
+        },
+        {
+          "label": "grass",
+          "score": 0.2284
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 3.9963868290960454,
+    "raw_energy": 8.414170169255446,
+    "event_score": 0.11725613540449871,
+    "is_event": false
+  },
+  {
+    "start": 154.0,
+    "end": 156.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0077.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0077.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "merchant",
+          "score": 0.2291
+        },
+        {
+          "label": "ruin",
+          "score": 0.2263
+        },
+        {
+          "label": "vendor",
+          "score": 0.219
+        },
+        {
+          "label": "traveler",
+          "score": 0.2163
+        },
+        {
+          "label": "path",
+          "score": 0.2159
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "japanese_garden"
+    },
+    "raw_motion": 12.6799387211629,
+    "raw_energy": 10.320206166971579,
+    "event_score": 0.2937230685822607,
+    "is_event": false
+  },
+  {
+    "start": 156.0,
+    "end": 158.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0078.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0078.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "dock",
+          "score": 0.2444
+        },
+        {
+          "label": "merchant",
+          "score": 0.2408
+        },
+        {
+          "label": "vendor",
+          "score": 0.2384
+        },
+        {
+          "label": "ruin",
+          "score": 0.2345
+        },
+        {
+          "label": "pier",
+          "score": 0.2321
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "oast_house"
+    },
+    "raw_motion": 18.556293582600965,
+    "raw_energy": 10.897925960908026,
+    "event_score": 0.40540907202271337,
+    "is_event": true
+  },
+  {
+    "start": 158.0,
+    "end": 160.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0079.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0079.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "merchant",
+          "score": 0.235
+        },
+        {
+          "label": "ruin",
+          "score": 0.2339
+        },
+        {
+          "label": "vendor",
+          "score": 0.2286
+        },
+        {
+          "label": "house",
+          "score": 0.2286
+        },
+        {
+          "label": "dock",
+          "score": 0.2285
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 17.310930478722014,
+    "raw_energy": 13.11051597961349,
+    "event_score": 0.4070958554617248,
+    "is_event": true
+  },
+  {
+    "start": 160.0,
+    "end": 162.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0080.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0080.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2415
+        },
+        {
+          "label": "merchant",
+          "score": 0.2369
+        },
+        {
+          "label": "villager",
+          "score": 0.2286
+        },
+        {
+          "label": "path",
+          "score": 0.2257
+        },
+        {
+          "label": "lantern",
+          "score": 0.2252
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "I'm a bird!",
+      "scene_type": "mosque/outdoor"
+    },
+    "raw_motion": 21.64260712557543,
+    "raw_energy": 16.70417038915799,
+    "event_score": 0.5238229626638116,
+    "is_event": true
+  },
+  {
+    "start": 162.0,
+    "end": 164.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0081.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0081.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2499
+        },
+        {
+          "label": "villager",
+          "score": 0.2435
+        },
+        {
+          "label": "guard",
+          "score": 0.2384
+        },
+        {
+          "label": "path",
+          "score": 0.2379
+        },
+        {
+          "label": "merchant",
+          "score": 0.2369
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "archaelogical_excavation"
+    },
+    "raw_motion": 29.454259242911697,
+    "raw_energy": 19.485729704876828,
+    "event_score": 0.6941567450852419,
+    "is_event": true
+  },
+  {
+    "start": 164.0,
+    "end": 166.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0082.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0082.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2371
+        },
+        {
+          "label": "bench",
+          "score": 0.2321
+        },
+        {
+          "label": "guard",
+          "score": 0.2305
+        },
+        {
+          "label": "scroll",
+          "score": 0.2279
+        },
+        {
+          "label": "path",
+          "score": 0.2279
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Or I could have flying?",
+      "scene_type": "trench"
+    },
+    "raw_motion": 9.7371298584955,
+    "raw_energy": 17.8579228401084,
+    "event_score": 0.3227861822505424,
+    "is_event": true
+  },
+  {
+    "start": 166.0,
+    "end": 168.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0083.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0083.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2593
+        },
+        {
+          "label": "merchant",
+          "score": 0.246
+        },
+        {
+          "label": "guard",
+          "score": 0.2319
+        },
+        {
+          "label": "npc",
+          "score": 0.2292
+        },
+        {
+          "label": "lantern",
+          "score": 0.2257
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 2.1018115551109022,
+    "raw_energy": 23.255780619010547,
+    "event_score": 0.2444362589220469,
+    "is_event": false
+  },
+  {
+    "start": 168.0,
+    "end": 170.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0084.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0084.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.26
+        },
+        {
+          "label": "merchant",
+          "score": 0.2451
+        },
+        {
+          "label": "npc",
+          "score": 0.2384
+        },
+        {
+          "label": "guard",
+          "score": 0.2294
+        },
+        {
+          "label": "villager",
+          "score": 0.2271
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thanks!",
+      "scene_type": "trench"
+    },
+    "raw_motion": 0.43993932602270347,
+    "raw_energy": 19.398754255535756,
+    "event_score": 0.17274125197419526,
+    "is_event": false
+  },
+  {
+    "start": 170.0,
+    "end": 172.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0085.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0085.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.259
+        },
+        {
+          "label": "merchant",
+          "score": 0.2451
+        },
+        {
+          "label": "npc",
+          "score": 0.241
+        },
+        {
+          "label": "lantern",
+          "score": 0.2303
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "My justice, I can do anything.",
+      "scene_type": "trench"
+    },
+    "raw_motion": 0.40542335281962755,
+    "raw_energy": 21.4238572856928,
+    "event_score": 0.19411278754790073,
+    "is_event": false
+  },
+  {
+    "start": 172.0,
+    "end": 174.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0086.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0086.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2578
+        },
+        {
+          "label": "merchant",
+          "score": 0.2444
+        },
+        {
+          "label": "npc",
+          "score": 0.2395
+        },
+        {
+          "label": "lantern",
+          "score": 0.2306
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "And I'm like, I might do it!",
+      "scene_type": "trench"
+    },
+    "raw_motion": 0.4649148046793262,
+    "raw_energy": 20.32385889448192,
+    "event_score": 0.1832350312406882,
+    "is_event": false
+  },
+  {
+    "start": 174.0,
+    "end": 176.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0087.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0087.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2463
+        },
+        {
+          "label": "merchant",
+          "score": 0.2361
+        },
+        {
+          "label": "path",
+          "score": 0.2316
+        },
+        {
+          "label": "villager",
+          "score": 0.2312
+        },
+        {
+          "label": "guard",
+          "score": 0.231
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "trench"
+    },
+    "raw_motion": 7.901059305686336,
+    "raw_energy": 25.706756944579954,
+    "event_score": 0.37508087136409646,
+    "is_event": true
+  },
+  {
+    "start": 176.0,
+    "end": 178.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0088.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0088.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "path",
+          "score": 0.2405
+        },
+        {
+          "label": "villager",
+          "score": 0.2373
+        },
+        {
+          "label": "waterfall",
+          "score": 0.2347
+        },
+        {
+          "label": "shadow",
+          "score": 0.2339
+        },
+        {
+          "label": "grass",
+          "score": 0.2329
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "greenhouse/indoor"
+    },
+    "raw_motion": 9.858846328010564,
+    "raw_energy": 23.54537340633054,
+    "event_score": 0.38672990034146815,
+    "is_event": true
+  },
+  {
+    "start": 178.0,
+    "end": 180.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0089.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0089.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "ruin",
+          "score": 0.2468
+        },
+        {
+          "label": "path",
+          "score": 0.2451
+        },
+        {
+          "label": "bridge",
+          "score": 0.239
+        },
+        {
+          "label": "dock",
+          "score": 0.2378
+        },
+        {
+          "label": "house",
+          "score": 0.2372
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 33.49433060002092,
+    "raw_energy": 21.683336339916234,
+    "event_score": 0.7904931601645425,
+    "is_event": true
+  },
+  {
+    "start": 180.0,
+    "end": 182.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0090.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0090.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "dock",
+          "score": 0.252
+        },
+        {
+          "label": "pier",
+          "score": 0.2454
+        },
+        {
+          "label": "merchant",
+          "score": 0.2452
+        },
+        {
+          "label": "vendor",
+          "score": 0.2429
+        },
+        {
+          "label": "ruin",
+          "score": 0.2427
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "patio"
+    },
+    "raw_motion": 14.784124702474365,
+    "raw_energy": 16.04405499492794,
+    "event_score": 0.39362440564924717,
+    "is_event": true
+  },
+  {
+    "start": 182.0,
+    "end": 184.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0091.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0091.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2468
+        },
+        {
+          "label": "merchant",
+          "score": 0.2405
+        },
+        {
+          "label": "ruin",
+          "score": 0.2375
+        },
+        {
+          "label": "traveler",
+          "score": 0.2323
+        },
+        {
+          "label": "lantern",
+          "score": 0.229
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "excavation"
+    },
+    "raw_motion": 15.191435111621153,
+    "raw_energy": 12.842167204307898,
+    "event_score": 0.3661614467945557,
+    "is_event": true
+  },
+  {
+    "start": 184.0,
+    "end": 186.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0092.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0092.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2559
+        },
+        {
+          "label": "merchant",
+          "score": 0.2405
+        },
+        {
+          "label": "villager",
+          "score": 0.2317
+        },
+        {
+          "label": "ruin",
+          "score": 0.2297
+        },
+        {
+          "label": "stand",
+          "score": 0.2272
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Hey, are you an R?",
+      "scene_type": "excavation"
+    },
+    "raw_motion": 13.986451949610272,
+    "raw_energy": 8.508116373069134,
+    "event_score": 0.2974822741482413,
+    "is_event": false
+  },
+  {
+    "start": 186.0,
+    "end": 188.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0093.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0093.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2888
+        },
+        {
+          "label": "merchant",
+          "score": 0.2681
+        },
+        {
+          "label": "easel",
+          "score": 0.2515
+        },
+        {
+          "label": "villager",
+          "score": 0.2433
+        },
+        {
+          "label": "painting",
+          "score": 0.2408
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "What is?",
+      "scene_type": "trench"
+    },
+    "raw_motion": 7.233713920930111,
+    "raw_energy": 21.25867889995586,
+    "event_score": 0.3148078429838801,
+    "is_event": true
+  },
+  {
+    "start": 188.0,
+    "end": 190.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0094.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0094.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2761
+        },
+        {
+          "label": "merchant",
+          "score": 0.2617
+        },
+        {
+          "label": "villager",
+          "score": 0.249
+        },
+        {
+          "label": "npc",
+          "score": 0.2428
+        },
+        {
+          "label": "artist",
+          "score": 0.2321
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Where is that one?",
+      "scene_type": "slum"
+    },
+    "raw_motion": 4.806542948315546,
+    "raw_energy": 20.076203747623698,
+    "event_score": 0.25842767528473337,
+    "is_event": false
+  },
+  {
+    "start": 190.0,
+    "end": 192.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0095.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0095.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2803
+        },
+        {
+          "label": "villager",
+          "score": 0.2717
+        },
+        {
+          "label": "npc",
+          "score": 0.2671
+        },
+        {
+          "label": "merchant",
+          "score": 0.2603
+        },
+        {
+          "label": "child",
+          "score": 0.2534
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Who have an easel? Are you an artist?",
+      "scene_type": "picnic_area"
+    },
+    "raw_motion": 0.7349091402490061,
+    "raw_energy": 15.933704240979317,
+    "event_score": 0.14040538840575068,
+    "is_event": false
+  },
+  {
+    "start": 192.0,
+    "end": 194.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0096.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0096.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2844
+        },
+        {
+          "label": "villager",
+          "score": 0.2722
+        },
+        {
+          "label": "merchant",
+          "score": 0.2622
+        },
+        {
+          "label": "npc",
+          "score": 0.2598
+        },
+        {
+          "label": "child",
+          "score": 0.2578
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Key ist?",
+      "scene_type": "campsite"
+    },
+    "raw_motion": 0.3813291140275163,
+    "raw_energy": 28.637180789714034,
+    "event_score": 0.27201042449250834,
+    "is_event": false
+  },
+  {
+    "start": 194.0,
+    "end": 196.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0097.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0097.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2786
+        },
+        {
+          "label": "villager",
+          "score": 0.2664
+        },
+        {
+          "label": "npc",
+          "score": 0.2612
+        },
+        {
+          "label": "merchant",
+          "score": 0.2598
+        },
+        {
+          "label": "child",
+          "score": 0.2537
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thanks so much!",
+      "scene_type": "picnic_area"
+    },
+    "raw_motion": 0.2473298463983051,
+    "raw_energy": 23.740859799853105,
+    "event_score": 0.21643728902653467,
+    "is_event": false
+  },
+  {
+    "start": 196.0,
+    "end": 198.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0098.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0098.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2756
+        },
+        {
+          "label": "npc",
+          "score": 0.2671
+        },
+        {
+          "label": "villager",
+          "score": 0.2625
+        },
+        {
+          "label": "merchant",
+          "score": 0.262
+        },
+        {
+          "label": "child",
+          "score": 0.2487
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Do you want to see what I mean?",
+      "scene_type": "picnic_area"
+    },
+    "raw_motion": 0.2187534493356351,
+    "raw_energy": 15.105813855760898,
+    "event_score": 0.12215626734083414,
+    "is_event": false
+  },
+  {
+    "start": 198.0,
+    "end": 200.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0099.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0099.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2798
+        },
+        {
+          "label": "villager",
+          "score": 0.2668
+        },
+        {
+          "label": "merchant",
+          "score": 0.2566
+        },
+        {
+          "label": "npc",
+          "score": 0.2566
+        },
+        {
+          "label": "child",
+          "score": 0.2539
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "swear works best. You",
+      "scene_type": "picnic_area"
+    },
+    "raw_motion": 0.8651302165071145,
+    "raw_energy": 33.91107644180846,
+    "event_score": 0.33795855437518146,
+    "is_event": true
+  },
+  {
+    "start": 200.0,
+    "end": 202.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0100.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0100.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2588
+        },
+        {
+          "label": "canvas",
+          "score": 0.2517
+        },
+        {
+          "label": "painting",
+          "score": 0.2515
+        },
+        {
+          "label": "fish",
+          "score": 0.251
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Look!",
+      "scene_type": "playground"
+    },
+    "raw_motion": 0.17307338257219082,
+    "raw_energy": 24.53591183118645,
+    "event_score": 0.22373875622005543,
+    "is_event": false
+  },
+  {
+    "start": 202.0,
+    "end": 204.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0101.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0101.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2625
+        },
+        {
+          "label": "canvas",
+          "score": 0.2461
+        },
+        {
+          "label": "painting",
+          "score": 0.2435
+        },
+        {
+          "label": "fish",
+          "score": 0.2435
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "it",
+      "scene_type": "playground"
+    },
+    "raw_motion": 0.7537288952971334,
+    "raw_energy": 22.298814195209385,
+    "event_score": 0.20986204015102683,
+    "is_event": false
+  },
+  {
+    "start": 204.0,
+    "end": 206.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0102.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0102.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.28
+        },
+        {
+          "label": "npc",
+          "score": 0.2646
+        },
+        {
+          "label": "villager",
+          "score": 0.2644
+        },
+        {
+          "label": "merchant",
+          "score": 0.2612
+        },
+        {
+          "label": "child",
+          "score": 0.2507
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "to all day.",
+      "scene_type": "village"
+    },
+    "raw_motion": 0.18924486523069678,
+    "raw_energy": 17.58357771374812,
+    "event_score": 0.1485330946779655,
+    "is_event": false
+  },
+  {
+    "start": 206.0,
+    "end": 208.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0103.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0103.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2793
+        },
+        {
+          "label": "npc",
+          "score": 0.2654
+        },
+        {
+          "label": "villager",
+          "score": 0.261
+        },
+        {
+          "label": "merchant",
+          "score": 0.2607
+        },
+        {
+          "label": "child",
+          "score": 0.2505
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "But I want to make my next one.",
+      "scene_type": "vineyard"
+    },
+    "raw_motion": 0.2074715061989956,
+    "raw_energy": 17.0439855465398,
+    "event_score": 0.14300059280852218,
+    "is_event": false
+  },
+  {
+    "start": 208.0,
+    "end": 210.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0104.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0104.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2795
+        },
+        {
+          "label": "npc",
+          "score": 0.2656
+        },
+        {
+          "label": "villager",
+          "score": 0.2637
+        },
+        {
+          "label": "merchant",
+          "score": 0.2605
+        },
+        {
+          "label": "child",
+          "score": 0.2512
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "even better.",
+      "scene_type": "village"
+    },
+    "raw_motion": 0.20971768577369745,
+    "raw_energy": 22.73574470523425,
+    "event_score": 0.20484799002915727,
+    "is_event": false
+  },
+  {
+    "start": 210.0,
+    "end": 212.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0105.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0105.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.282
+        },
+        {
+          "label": "villager",
+          "score": 0.2654
+        },
+        {
+          "label": "npc",
+          "score": 0.2632
+        },
+        {
+          "label": "merchant",
+          "score": 0.26
+        },
+        {
+          "label": "child",
+          "score": 0.2534
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "What should I do?",
+      "scene_type": "village"
+    },
+    "raw_motion": 0.36450157100073244,
+    "raw_energy": 24.924833940044124,
+    "event_score": 0.23139600034251578,
+    "is_event": false
+  },
+  {
+    "start": 212.0,
+    "end": 214.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0106.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0106.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2798
+        },
+        {
+          "label": "villager",
+          "score": 0.2649
+        },
+        {
+          "label": "npc",
+          "score": 0.2607
+        },
+        {
+          "label": "merchant",
+          "score": 0.2566
+        },
+        {
+          "label": "child",
+          "score": 0.2542
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 0.32411643060786777,
+    "raw_energy": 40.976627719644966,
+    "event_score": 0.40497880581606005,
+    "is_event": true
+  },
+  {
+    "start": 214.0,
+    "end": 216.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0107.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0107.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2764
+        },
+        {
+          "label": "villager",
+          "score": 0.2666
+        },
+        {
+          "label": "npc",
+          "score": 0.2612
+        },
+        {
+          "label": "merchant",
+          "score": 0.2581
+        },
+        {
+          "label": "child",
+          "score": 0.2524
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "But I don't know how to make a-",
+      "scene_type": "picnic_area"
+    },
+    "raw_motion": 0.27243499391870685,
+    "raw_energy": 26.688367764307028,
+    "event_score": 0.24889477567308135,
+    "is_event": false
+  },
+  {
+    "start": 216.0,
+    "end": 218.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0108.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0108.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2791
+        },
+        {
+          "label": "villager",
+          "score": 0.2686
+        },
+        {
+          "label": "npc",
+          "score": 0.2659
+        },
+        {
+          "label": "merchant",
+          "score": 0.2598
+        },
+        {
+          "label": "child",
+          "score": 0.2524
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "on this.",
+      "scene_type": "vineyard"
+    },
+    "raw_motion": 0.23247805339767735,
+    "raw_energy": 26.002951602914084,
+    "event_score": 0.2407350421269627,
+    "is_event": false
+  },
+  {
+    "start": 218.0,
+    "end": 220.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0109.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0109.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2798
+        },
+        {
+          "label": "villager",
+          "score": 0.2725
+        },
+        {
+          "label": "npc",
+          "score": 0.262
+        },
+        {
+          "label": "merchant",
+          "score": 0.2603
+        },
+        {
+          "label": "child",
+          "score": 0.2507
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Alright, you're in",
+      "scene_type": "campsite"
+    },
+    "raw_motion": 0.19292439906361164,
+    "raw_energy": 23.76496807241687,
+    "event_score": 0.21572313429343434,
+    "is_event": false
+  },
+  {
+    "start": 220.0,
+    "end": 222.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0110.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0110.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2766
+        },
+        {
+          "label": "villager",
+          "score": 0.2688
+        },
+        {
+          "label": "npc",
+          "score": 0.2615
+        },
+        {
+          "label": "merchant",
+          "score": 0.2581
+        },
+        {
+          "label": "child",
+          "score": 0.2524
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "That is hard, is, after all.",
+      "scene_type": "campsite"
+    },
+    "raw_motion": 0.21242049363098978,
+    "raw_energy": 27.852434787335316,
+    "event_score": 0.26045887387387195,
+    "is_event": false
+  },
+  {
+    "start": 222.0,
+    "end": 224.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0111.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0111.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2795
+        },
+        {
+          "label": "villager",
+          "score": 0.2708
+        },
+        {
+          "label": "npc",
+          "score": 0.2573
+        },
+        {
+          "label": "child",
+          "score": 0.2561
+        },
+        {
+          "label": "merchant",
+          "score": 0.2554
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "picnic_area"
+    },
+    "raw_motion": 0.20085479768256959,
+    "raw_energy": 38.62934775447947,
+    "event_score": 0.3772784536208947,
+    "is_event": true
+  },
+  {
+    "start": 224.0,
+    "end": 226.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0112.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0112.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2771
+        },
+        {
+          "label": "villager",
+          "score": 0.2676
+        },
+        {
+          "label": "npc",
+          "score": 0.2666
+        },
+        {
+          "label": "merchant",
+          "score": 0.2595
+        },
+        {
+          "label": "child",
+          "score": 0.2527
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "I know where some boards are, follow me!",
+      "scene_type": "campsite"
+    },
+    "raw_motion": 0.1803961423022599,
+    "raw_energy": 13.74123303276569,
+    "event_score": 0.10665014483411883,
+    "is_event": false
+  },
+  {
+    "start": 226.0,
+    "end": 228.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0113.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0113.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2866
+        },
+        {
+          "label": "merchant",
+          "score": 0.2627
+        },
+        {
+          "label": "villager",
+          "score": 0.2539
+        },
+        {
+          "label": "npc",
+          "score": 0.2474
+        },
+        {
+          "label": "child",
+          "score": 0.2377
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 4.777213852270349,
+    "raw_energy": 27.054796373336856,
+    "event_score": 0.33368245253397105,
+    "is_event": true
+  },
+  {
+    "start": 228.0,
+    "end": 230.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0114.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0114.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2644
+        },
+        {
+          "label": "merchant",
+          "score": 0.2505
+        },
+        {
+          "label": "villager",
+          "score": 0.2343
+        },
+        {
+          "label": "town",
+          "score": 0.2252
+        },
+        {
+          "label": "market",
+          "score": 0.2238
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown"
+    },
+    "raw_motion": 12.781387107004603,
+    "raw_energy": 22.797600024858404,
+    "event_score": 0.43103555137370075,
+    "is_event": true
+  },
+  {
+    "start": 230.0,
+    "end": 232.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0115.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0115.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2478
+        },
+        {
+          "label": "merchant",
+          "score": 0.2421
+        },
+        {
+          "label": "path",
+          "score": 0.2295
+        },
+        {
+          "label": "market",
+          "score": 0.2255
+        },
+        {
+          "label": "town",
+          "score": 0.2227
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Thank you.",
+      "scene_type": "slum"
+    },
+    "raw_motion": 24.09277541555503,
+    "raw_energy": 20.979532326627087,
+    "event_score": 0.6142014819313945,
+    "is_event": true
+  },
+  {
+    "start": 232.0,
+    "end": 234.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0116.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0116.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2502
+        },
+        {
+          "label": "path",
+          "score": 0.246
+        },
+        {
+          "label": "merchant",
+          "score": 0.2458
+        },
+        {
+          "label": "villager",
+          "score": 0.2377
+        },
+        {
+          "label": "dock",
+          "score": 0.2334
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "Did you see when it ran over me?",
+      "scene_type": "boardwalk"
+    },
+    "raw_motion": 14.173444218848086,
+    "raw_energy": 17.106398068421168,
+    "event_score": 0.3942058012350694,
+    "is_event": true
+  },
+  {
+    "start": 234.0,
+    "end": 236.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0117.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0117.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "vendor",
+          "score": 0.2354
+        },
+        {
+          "label": "path",
+          "score": 0.2354
+        },
+        {
+          "label": "merchant",
+          "score": 0.234
+        },
+        {
+          "label": "villager",
+          "score": 0.2336
+        },
+        {
+          "label": "dock",
+          "score": 0.2275
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "I've never seen anything like that.",
+      "scene_type": "construction_site"
+    },
+    "raw_motion": 11.514432175598975,
+    "raw_energy": 21.627189179164805,
+    "event_score": 0.395598831859485,
+    "is_event": true
+  },
+  {
+    "start": 236.0,
+    "end": 238.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0118.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0118.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "trail",
+          "score": 0.2302
+        },
+        {
+          "label": "path",
+          "score": 0.2299
+        },
+        {
+          "label": "shadow",
+          "score": 0.2283
+        },
+        {
+          "label": "ruin",
+          "score": 0.2245
+        },
+        {
+          "label": "villager",
+          "score": 0.2235
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "terrible please",
+      "scene_type": "patio"
+    },
+    "raw_motion": 7.784250832090918,
+    "raw_energy": 21.039421615262192,
+    "event_score": 0.32230267858071526,
+    "is_event": true
+  },
+  {
+    "start": 238.0,
+    "end": 240.0,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0119.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0119.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "grass",
+          "score": 0.2449
+        },
+        {
+          "label": "bush",
+          "score": 0.2405
+        },
+        {
+          "label": "ruin",
+          "score": 0.2399
+        },
+        {
+          "label": "plant",
+          "score": 0.2357
+        },
+        {
+          "label": "shadow",
+          "score": 0.2341
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "\u044d\u0442\u043e \u0432\u044b \u0434\u043e\u0441\u0442\u044b\u0432\u0430\u0439\u0442\u0435",
+      "scene_type": "aquarium"
+    },
+    "raw_motion": 1.953346648422787,
+    "raw_energy": 20.27366635858072,
+    "event_score": 0.2093901017098588,
+    "is_event": false
+  },
+  {
+    "start": 240.0,
+    "end": 241.77,
+    "video_path": "sessions/4_min_intro_8_1_2025/chunk_0120.mp4",
+    "audio_path": "sessions/4_min_intro_8_1_2025/chunk_0120.wav",
+    "valence": "unknown",
+    "source": "perception",
+    "annotations": {
+      "vision_tags": [
+        {
+          "label": "grass",
+          "score": 0.2496
+        },
+        {
+          "label": "bush",
+          "score": 0.2471
+        },
+        {
+          "label": "plant",
+          "score": 0.2408
+        },
+        {
+          "label": "ruin",
+          "score": 0.2349
+        },
+        {
+          "label": "forest",
+          "score": 0.2321
+        }
+      ],
+      "audio_moods": {
+        "mood": "unknown",
+        "loudness": 0.0,
+        "is_music": false
+      },
+      "motion_analysis": {
+        "movement_type": "unknown",
+        "motion_intensity": 0.0,
+        "directional_bias": "none"
+      },
+      "time_of_day": "unknown",
+      "speech_transcript": "it went down so quickly.",
+      "scene_type": "aquarium"
+    },
+    "raw_motion": 0.4147851469759022,
+    "raw_energy": 16.936728180010462,
+    "event_score": 0.14555475848420815,
+    "is_event": false
+  }
+]

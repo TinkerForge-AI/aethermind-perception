@@ -1,0 +1,322 @@
+{
+  "session_id": "session_20250801_170832",
+  "start_time": "2025-08-01T17:08:32Z",
+  "chunks": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0000.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0000.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0001.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0001.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0002.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0002.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0003.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0003.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0004.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0004.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0005.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0005.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0006.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0006.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0007.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0007.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0008.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0008.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0009.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0009.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0010.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0010.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0011.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0011.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0012.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0012.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0013.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0013.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0014.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0014.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0015.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0015.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0016.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0016.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0017.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0017.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0018.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0018.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0019.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0019.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0020.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0020.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 42.0,
+      "end": 44.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0021.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0021.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0022.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0022.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 46.0,
+      "end": 48.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0023.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0023.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0024.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0024.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0025.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0025.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 52.0,
+      "end": 54.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0026.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0026.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 54.0,
+      "end": 56.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0027.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0027.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 56.0,
+      "end": 58.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0028.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0028.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 58.0,
+      "end": 60.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0029.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0029.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 60.0,
+      "end": 62.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0030.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0030.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 62.0,
+      "end": 64.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0031.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0031.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 64.0,
+      "end": 66.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0032.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0032.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 66.0,
+      "end": 68.0,
+      "video_path": "sessions/session_20250801_170832/chunk_0033.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0033.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    },
+    {
+      "start": 68.0,
+      "end": 69.03,
+      "video_path": "sessions/session_20250801_170832/chunk_0034.mp4",
+      "audio_path": "sessions/session_20250801_170832/chunk_0034.wav",
+      "valence": "unknown",
+      "source": "perception",
+      "annotations": {}
+    }
+  ],
+  "notes": "Initial perception run with chunking and logging only."
+}
