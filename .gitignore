@@ -9,3 +9,8 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+chunks/
+**/__pycache__/
+*.pyc
+data/*.mp4
+data/*.wav
