@@ -1,1 +1,0 @@
-"""Aethermind Core package root."""
