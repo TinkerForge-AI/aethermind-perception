@@ -1,3 +1,5 @@
 faiss-cpu
 numpy
 moviepy>=1.0.3
+opencv-python
+soundfile

@@ -1,10 +1,10 @@
 
 import sys, os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from event_detector import detect_events
+from aethermind_perception.event_detector import detect_events
 
 def test_detect_events_on_all_sessions():
-    sessions_root = os.path.join(os.path.dirname(__file__), '../sessions')
+    sessions_root = os.path.join(os.path.dirname(__file__), '../chunks')
     for session_name in os.listdir(sessions_root):
         session_dir = os.path.join(sessions_root, session_name)
         if not os.path.isdir(session_dir):
