@@ -188,9 +188,9 @@ def chunk_video_audio_with_actions(
         )
 
         # Persist seeds incrementally (jsonl), and/or collect them for the session manifest
-        seeds_path = out_dir / "seeds.jsonl"
-        with open(seeds_path, "a") as sf:
-            sf.write(json.dumps(seed) + "\n")
+        # seeds_path = out_dir / "seeds.jsonl"
+        # with open(seeds_path, "a") as sf:
+            # sf.write(json.dumps(seed) + "\n")
 
         print(f"[DEBUG] Emitted EventSeed → {seed['event_uid']}")
 
@@ -316,7 +316,7 @@ if __name__ == "__main__":
     if session_json:
         session_manifest.update(session_json)
     session_manifest['chunks'] = chunks
-    session_manifest['seeds_path'] = str(out_dir / "seeds.jsonl")
+    # session_manifest['seeds_path'] = str(out_dir / "seeds.jsonl")
     session_path = out_dir / "session.json"
     with open(session_path, "w") as sf:
         json.dump(session_manifest, sf, indent=2)
